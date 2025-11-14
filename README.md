@@ -50,9 +50,11 @@ The project demonstrates low-level programming concepts such as registers, memor
 - Players enter a number **1–9** based on board position:
 
 1 | 2 | 3
+
 ---+---+---
 
 4 | 5 | 6
+
 ---+---+---
 
 7 | 8 | 9
