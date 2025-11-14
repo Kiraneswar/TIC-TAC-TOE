@@ -25,8 +25,11 @@ The project demonstrates low-level programming concepts such as registers, memor
 
 ## 📂 Project Structure
 └── TicTacToe-8086
+
 ├── index.ASM
+
 ├── README.md 
+
 └── screenshot
 
 
@@ -48,8 +51,10 @@ The project demonstrates low-level programming concepts such as registers, memor
 
 1 | 2 | 3
 ---+---+---
+
 4 | 5 | 6
 ---+---+---
+
 7 | 8 | 9
 
 
